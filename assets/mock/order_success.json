@@ -1,0 +1,7 @@
+{
+  "order_id": "ORD-TEMPLATE",
+  "table_id": "T001",
+  "status": "pending",
+  "message": "Order submitted successfully.",
+  "estimated_preparation_time_minutes": 18
+}

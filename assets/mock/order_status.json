@@ -1,0 +1,10 @@
+{
+  "statuses": [
+    "pending",
+    "confirmed",
+    "preparing",
+    "ready",
+    "served"
+  ],
+  "estimated_preparation_time_minutes": 18
+}
